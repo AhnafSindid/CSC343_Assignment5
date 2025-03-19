@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/CSC343_Assignment5.dir/main.cpp.o -o CSC343_Assignment5 
